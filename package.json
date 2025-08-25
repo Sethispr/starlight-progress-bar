@@ -1,0 +1,19 @@
+{
+  "name": "starlight-progress-bar",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --port 3000",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.35.2",
+    "astro": "^5.13.3",
+    "starlight-theme-rapide": "^0.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
